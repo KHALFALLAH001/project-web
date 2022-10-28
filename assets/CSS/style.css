@@ -1,0 +1,67 @@
+#reg_section{
+    display: flex;
+    height: 100%;
+}
+h1 {
+    text-align: left;
+ 
+  }
+p{
+    text-align: left;
+}
+
+
+
+.left{
+width: 50%;
+background-color: lightgray;
+text-align: center;
+display: flex;
+
+}
+.left img{
+    width: 300px;
+    height: 300px;
+    margin:auto;
+
+
+}
+
+.right{
+width: 50%;
+display: flex;
+
+}
+.right form{
+    margin: auto auto auto 30px;
+    
+}
+.a{
+    background-color:rgba(136, 133, 133 ,0.04);
+    border: none;
+    margin-bottom: 27px;
+    padding: 10px 10px ;
+    
+}
+.b{
+    background-color:rgba(136, 133, 133 ,0.04);
+    border: none;
+    margin-bottom: 27px;
+    padding: 10px 10px ;
+}
+.c{
+    background-color:rgba(136, 133, 133 ,0.04);
+    border: none;
+    margin-bottom: 27px;
+    padding: 10px 10px ;
+}
+.d{
+    background: #5d64e4;
+    border: none;
+    height: 30px;
+    width: 25%;
+    border-radius: 5px;
+    color: white;
+
+    
+}
